@@ -1,10 +1,4 @@
 # Fintech-LXR.io
-```bash
-while true; do
-  echo -e "\033[2J\033[1;1H"
-  echo -e "$(date)"
-  sleep 1
-done
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
